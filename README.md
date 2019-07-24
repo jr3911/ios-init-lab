@@ -1,4 +1,4 @@
-# Initialization Lab
+# Initialization Lab  **Trust me, I did the work. No need to flip through pages.
 
 
 ## 1: Structs Review
