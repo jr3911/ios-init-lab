@@ -1,4 +1,4 @@
-# Initialization Lab  **Trust me, I did the work. No need to flip through pages.
+# Initialization Lab  **Trust me, I did the work. No need to flip through pages. Source: https://imgur.com/gallery/DXg3lMJ
 
 
 ## 1: Structs Review
